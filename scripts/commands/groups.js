@@ -1,7 +1,7 @@
 module.exports.config = {
 	name: "group",
 	version: "0.0.3",
-	permission: 2,
+	permission: 0,
 	credits: "ryuko",
 	prefix: true,
   premium: false,
